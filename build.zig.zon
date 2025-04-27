@@ -1,0 +1,17 @@
+.{
+    .name = .zsrt,
+    .version = "0.0.0",
+
+    .fingerprint = 0x3910e7bc4c33cdc3,
+
+    .minimum_zig_version = "0.15.0-dev.369+1a2ceb36c",
+
+    .dependencies = .{},
+
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+    },
+}
